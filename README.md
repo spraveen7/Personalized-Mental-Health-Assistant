@@ -1,4 +1,4 @@
-# Personalized_Mental_Health_Assistant
+# Personalized Mental Health Assistant
 A personalized mental health assistant that uses a fine-tuned BERT model to classify emotions from text and visualize emotional trends over time. This project aims to help users track their emotional well-being through daily journal entries or conversation logs.
 
 ---
@@ -42,4 +42,4 @@ A personalized mental health assistant that uses a fine-tuned BERT model to clas
 Sai Praveen Bhamidipati
 
 ## NOTE
-Notebooks are currently not functional due to formatting issues. All logic is included in `main.py`.
+Notebooks are currently not functional due to formatting issues. All logic is included in `emotion_detection.py`.
